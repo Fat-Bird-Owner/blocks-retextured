@@ -12,6 +12,6 @@ iosCompatible: true
 version: "v1"
 minGameVersion: "154.3"
 dependencies: []
-hidden: false
+hidden: true
 
 contentOrder:[]
